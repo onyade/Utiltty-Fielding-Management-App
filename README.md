@@ -1,4 +1,4 @@
-# Utiltty-Fielding-Management-App
+# Utilty-Fielding-Management-App
 Mobile/Desktop Fielding Management App
 
 *Maintained a web application that provides real-time tracking of fielding vehicles/personnel using React, NodeJS, and WebSockets
