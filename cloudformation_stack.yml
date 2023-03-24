@@ -1,3 +1,6 @@
+# use AWS CloudFormation to create a stack that includes the Lambda function and the API Gateway endpoint.
+# use YAML format to define the CloudFormation stack.
+
 Resources:
   MyLambdaFunction:
     Type: AWS::Lambda::Function
