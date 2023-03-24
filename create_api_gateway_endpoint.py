@@ -1,3 +1,6 @@
+# create an API Gateway endpoint to trigger the Lambda function.
+# use the AWS SDK for Python (boto3) to create the API Gateway endpoint.
+
 import boto3
 
 # Connect to the AWS services
