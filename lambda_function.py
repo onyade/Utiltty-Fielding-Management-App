@@ -1,3 +1,6 @@
+# create an AWS Lambda function to handle the incoming API requests.
+# use the AWS SDK for Python (boto3) to interact with other AWS services.
+
 import boto3
 
 # Connect to the AWS services
