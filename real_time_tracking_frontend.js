@@ -1,3 +1,6 @@
+// create a React-based frontend to display the real-time tracking data.
+// use the WebSocket API to communicate with the server.
+
 import React, { useState, useEffect } from 'react';
 
 function App() {
