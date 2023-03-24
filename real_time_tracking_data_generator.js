@@ -1,3 +1,6 @@
+// create a script to generate simulated real-time tracking data for vehicles and personnel.
+// script will use the WebSocket API to send the data to the server.
+
 const WebSocket = require('ws');
 
 // Define a function to generate simulated data for a vehicle or personnel
