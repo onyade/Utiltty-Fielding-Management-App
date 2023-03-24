@@ -1,3 +1,6 @@
+// create a Node.js-based web server to handle the real-time tracking functionality.
+// use the Express.js framework and the ws library for WebSocket support.
+
 const express = require('express');
 const WebSocket = require('ws');
 
